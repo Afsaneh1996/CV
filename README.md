@@ -1,2 +1,2 @@
 # CV
-رزومه
+Resume file written with LATEX
